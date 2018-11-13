@@ -9,7 +9,7 @@ Works with Rails out of the box.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tooltip_js', '~> 1.14.3'
+gem 'tooltip_js', '~> 1.3.1'
 ```
 
 And then execute:
